@@ -30,8 +30,8 @@
     "eloom/module-i18n-br": "1.0.*",
     "eloom/module-mask-br": "1.0.*",
     "eloom/module-correios-frete": "1.0.*",
-    "eloom/theme-frontend-gaia": "1.0.0",
-    "eloom/module-bling-nfe": "1.0.*"
+    "eloom/module-bling-nfe": "1.0.*",
+    "eloom/theme-frontend-gaia": "1.0.0"
   },
   "license": [
     "OSL-3.0",
