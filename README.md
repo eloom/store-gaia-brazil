@@ -28,5 +28,5 @@
 * [Documentação](https://docs.eloom.tech/store/gaia)
 * [Issue tracker](https://github.com/eloom/theme-frontend-gaia/issues)
 * [Packagist](https://packagist.org/packages/eloom/theme-frontend-gaia)
-* [Repmain](https://app.repman.io/organization/eloom/package/986b2822-2a8e-41d4-813c-f7d3897a3bf2/details)
+* [Repman](https://app.repman.io/organization/eloom/package/986b2822-2a8e-41d4-813c-f7d3897a3bf2/details)
 * [Código fonte](https://github.com/eloom/theme-frontend-gaia)
